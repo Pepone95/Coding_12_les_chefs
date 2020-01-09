@@ -15815,6 +15815,30 @@ body {
   background-image: url(../../public/css/images/team_background.jpg);
 }
 
+section .carte {
+  position: relative;
+}
+section .carte .imgb1 {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+section .carte .imgb2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+section .carte .imgb3 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+section .carte .imgb4 {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
 .section3 .container .bgform {
   background-image: url(../../public/css/images/book_table_bg.jpg);
 }
